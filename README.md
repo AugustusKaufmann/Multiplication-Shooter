@@ -8,12 +8,9 @@ The project is organized into the following directories:
 
 - `.vscode/` - Contains settings and configurations for Visual Studio Code.
 - `Assets/` - Contains all the game assets including prefabs, audio sources, and other resources. (Important)
-- `Library/` - Unity's library folder containing project-specific settings and metadata.
-- `Logs/` - Contains log files generated during the project's development.
 - `Packages/` - Contains package information used in the project.
 - `ProjectSettings/` - Contains settings for the Unity project.
 - `Scripts/` - Contains all the C# scripts used in the game. (Important)
-- `UserSettings/` - Contains user-specific settings.
 
 ## Scripts
 
