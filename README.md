@@ -1,6 +1,6 @@
 # Multiplication Shooter!
 
-Multiplication Shooter! is a Unity project designed to help students at Ave Afiadenyegba DA Basic School in Ghana practice multiplication through an engaging shooting game. The game includes various interactive elements such as lasers, enemies, and questions that test the player's multiplication skills in a timed setting.
+Multiplication Shooter! is a Unity project designed to help students at Ave Afiadenyigba D/A Basic School in Ghana practice multiplication through an engaging shooting game. The game includes various interactive elements such as lasers, enemies, and questions that test the player's multiplication skills in a timed setting.
 
 ## Project Structure
 
